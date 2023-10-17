@@ -1,0 +1,23 @@
+{
+  "name": "@salable/tailwind-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Salable",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "semantic-release": "^22.0.5",
+    "tailwindcss": "^3.3.3"
+  }
+}
